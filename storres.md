@@ -16,3 +16,4 @@ modernización y simplificación de los procesos de *TIC*.
 - SQL
 - Planeación
 - Trabajo en equipo
+- Adaptación al cambio
